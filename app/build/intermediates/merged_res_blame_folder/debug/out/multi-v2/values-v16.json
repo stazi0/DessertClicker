@@ -4,17 +4,7 @@
             "outputFile": "com.example.android.dessertclicker.app-mergeDebugResources-32:/values-v16/values-v16.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\stazi\\.gradle\\caches\\transforms-3\\e04bf359c380ff0ef7fb351c54ce46c6\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "65",
-                        "endOffsets": "116"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\stazi\\.gradle\\caches\\transforms-3\\ddeee9ab5757d1ccec315890d882a4dd\\transformed\\appcompat-1.5.1\\res\\values-v16\\values-v16.xml",
+                    "source": "C:\\Users\\stazi\\.gradle\\caches\\transforms-3\\8d3702dc2c9e0ba54c06dccc59a74118\\transformed\\appcompat-1.5.1\\res\\values-v16\\values-v16.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -30,6 +20,16 @@
                         "endLines": "6",
                         "endColumns": "12",
                         "endOffsets": "289"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\stazi\\.gradle\\caches\\transforms-3\\5e55078ac3587f7d2bb863f4334fe045\\transformed\\core-1.8.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
                     }
                 }
             ]
