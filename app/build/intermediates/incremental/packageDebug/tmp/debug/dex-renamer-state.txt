@@ -1,4 +1,4 @@
-#Sun Nov 19 16:34:35 EET 2023
+#Sun Nov 19 17:09:57 EET 2023
 base.0=F\:\\Kotlin\\AndroidStudioProjects\\DessertClicker\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
